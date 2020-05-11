@@ -2,7 +2,7 @@
   "name": "routing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hyongshu.github.io/react-sub-url/",
+  "homepage": "https://nifty-payne-43afc5.netlify.app/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.5.1",
